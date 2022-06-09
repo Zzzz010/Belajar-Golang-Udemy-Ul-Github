@@ -39,7 +39,7 @@ func main() {
 	selatan3 := "Bima"
 	fmt.Println(selatan3)
 
-	backname = "Kawijayan"
-	fmt.Println(backname)
+	selatan3 = "Brawijaya"
+	fmt.Println(selatan3)
 
 }
