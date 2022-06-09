@@ -8,11 +8,11 @@ func main() {
 
 	var (
 		myname  = "Raung Kawijayan"
-		hername = "Zahratun Nisa"
+		trainname = "Matarmaja"
 	)
 
 	fmt.Println(myname)
-	fmt.Println(hername)
+	fmt.Println(trainname)
 
 	// default
 
@@ -26,8 +26,8 @@ func main() {
 
 	// Shortcut No 1
 
-	var namanya = "Ayang"
-	fmt.Println(namanya)
+	var namaS = "Argo Wilis"
+	fmt.Println(namaS)
 
 	// Declare variable int8
 
@@ -36,8 +36,8 @@ func main() {
 
 	// Declare without var ( instead using := )
 
-	backname := "Nisa"
-	fmt.Println(backname)
+	selatan3 := "Bima"
+	fmt.Println(selatan3)
 
 	backname = "Kawijayan"
 	fmt.Println(backname)
